@@ -1,0 +1,11 @@
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.Model\bin\Debug\net8.0\SistemaRegistroPersonas.Models.deps.json
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.Model\bin\Debug\net8.0\SistemaRegistroPersonas.Models.dll
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.Model\bin\Debug\net8.0\SistemaRegistroPersonas.Models.pdb
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.Model\obj\Debug\net8.0\SistemaRegistroPersonas.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.Model\obj\Debug\net8.0\SistemaRegistroPersonas.Models.AssemblyInfoInputs.cache
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.Model\obj\Debug\net8.0\SistemaRegistroPersonas.Models.AssemblyInfo.cs
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.Model\obj\Debug\net8.0\SistemaRegistroPersonas.Models.csproj.CoreCompileInputs.cache
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.Model\obj\Debug\net8.0\SistemaRegistroPersonas.Models.dll
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.Model\obj\Debug\net8.0\refint\SistemaRegistroPersonas.Models.dll
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.Model\obj\Debug\net8.0\SistemaRegistroPersonas.Models.pdb
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.Model\obj\Debug\net8.0\ref\SistemaRegistroPersonas.Models.dll

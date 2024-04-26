@@ -1,0 +1,17 @@
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.BLL\bin\Debug\net8.0\SistemaRegistroPersonas.BLL.deps.json
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.BLL\bin\Debug\net8.0\SistemaRegistroPersonas.BLL.dll
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.BLL\bin\Debug\net8.0\SistemaRegistroPersonas.BLL.pdb
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.BLL\obj\Debug\net8.0\SistemaRegistroPersonas.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.BLL\obj\Debug\net8.0\SistemaRegistroPersonas.BLL.AssemblyInfoInputs.cache
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.BLL\obj\Debug\net8.0\SistemaRegistroPersonas.BLL.AssemblyInfo.cs
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.BLL\obj\Debug\net8.0\SistemaRegistroPersonas.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.BLL\obj\Debug\net8.0\SistemaRegistroPersonas.BLL.dll
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.BLL\obj\Debug\net8.0\refint\SistemaRegistroPersonas.BLL.dll
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.BLL\obj\Debug\net8.0\SistemaRegistroPersonas.BLL.pdb
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.BLL\obj\Debug\net8.0\ref\SistemaRegistroPersonas.BLL.dll
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.BLL\bin\Debug\net8.0\SistemaRegistroPersonas.DAL.dll
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.BLL\bin\Debug\net8.0\SistemaRegistroPersonas.Models.dll
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.BLL\bin\Debug\net8.0\SistemaRegistroPersonas.DAL.pdb
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.BLL\bin\Debug\net8.0\SistemaRegistroPersonas.Models.pdb
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.BLL\obj\Debug\net8.0\SistemaRegistroPersonas.BLL.csproj.AssemblyReference.cache
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.BLL\obj\Debug\net8.0\SistemaRegistroPersonas.BLL.csproj.CopyComplete

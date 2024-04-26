@@ -1,0 +1,17 @@
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.DAL\bin\Debug\net8.0\SistemaRegistroPersonas.DAL.deps.json
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.DAL\bin\Debug\net8.0\SistemaRegistroPersonas.DAL.runtimeconfig.json
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.DAL\bin\Debug\net8.0\SistemaRegistroPersonas.DAL.dll
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.DAL\bin\Debug\net8.0\SistemaRegistroPersonas.DAL.pdb
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.DAL\obj\Debug\net8.0\SistemaRegistroPersonas.DAL.csproj.AssemblyReference.cache
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.DAL\obj\Debug\net8.0\SistemaRegistroPersonas.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.DAL\obj\Debug\net8.0\SistemaRegistroPersonas.DAL.AssemblyInfoInputs.cache
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.DAL\obj\Debug\net8.0\SistemaRegistroPersonas.DAL.AssemblyInfo.cs
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.DAL\obj\Debug\net8.0\SistemaRegistroPersonas.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.DAL\obj\Debug\net8.0\SistemaRegistroPersonas.DAL.dll
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.DAL\obj\Debug\net8.0\refint\SistemaRegistroPersonas.DAL.dll
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.DAL\obj\Debug\net8.0\SistemaRegistroPersonas.DAL.pdb
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.DAL\obj\Debug\net8.0\SistemaRegistroPersonas.DAL.genruntimeconfig.cache
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.DAL\obj\Debug\net8.0\ref\SistemaRegistroPersonas.DAL.dll
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.DAL\bin\Debug\net8.0\SistemaRegistroPersonas.Models.dll
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.DAL\bin\Debug\net8.0\SistemaRegistroPersonas.Models.pdb
+C:\Users\ameri\source\repos\SistemaRegistroPersonas\SistemaRegistroPersonas.DAL\obj\Debug\net8.0\SistemaRegistroPersonas.DAL.csproj.CopyComplete
